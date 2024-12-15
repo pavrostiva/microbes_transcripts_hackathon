@@ -1,0 +1,8 @@
+*.rds
+*.gz
+*.lintr
+*.h5ad
+*.h5seurat
+*.tar
+*.h5
+*.pdf
