@@ -1,6 +1,7 @@
 *.rds
 *.gz
 *.lintr
+*.pylintrc
 *.h5ad
 *.h5seurat
 *.tar
