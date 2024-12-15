@@ -1,4 +1,4 @@
-## Bacterial and viral transcript detection in scRNA-seq data from oral cancer 👅🦠🦀
+## Bacterial and viral transcript detection in scRNA-seq of tongue cancer 👅🦠🦀
 
 This is repo for results of the [bioinformatics hackathon](https://kub.academy/2024/zadachi-bht24/) (2024).
 
